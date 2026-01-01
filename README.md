@@ -5,7 +5,6 @@
 迄今为止公开二开瞎注插件中最强版本：Xia SQL Plus，基于 "瞎注" xia_sql：https://github.com/smxiazi/xia_sql ，二次开发的 BurpSuite SQL 注入检测插件，专门用于检测各种数据格式中的 SQL 注入漏洞。插件支持多种参数格式的注入探测，具有高度可配置性和易用性。
 <img width="1895" height="881" alt="image" src="https://github.com/user-attachments/assets/1c7a8e2b-f61b-484f-83f3-c543c116cb2f" />
 
-
 ------
 
 ### 核心功能
