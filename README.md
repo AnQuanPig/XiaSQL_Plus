@@ -34,10 +34,6 @@
 <img width="1498" height="704" alt="image" src="https://github.com/user-attachments/assets/ccbff255-eca5-47c9-875d-121d959505eb" />
 
 
-------
-
-### 技术特性
-
 #### 4. **响应分析系统**
 
 - 📊 **长度变化检测**：精确计算响应包长度变化
