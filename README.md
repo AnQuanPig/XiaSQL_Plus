@@ -19,7 +19,8 @@
 - ✅ **Multipart/form-data 检测**：支持文件上传表单数据包格式中的参数探测，精准识别参数
 - ✅ **GraphQL 查询检测**：支持 GraphQL API 中的参数注入探测
 - ✅ **URL 编码的 JSON 检测**：自动识别并解码 URL 编码的 JSON 参数
-<img width="1869" height="880" alt="image" src="https://github.com/user-attachments/assets/17e01bfd-da50-440a-98c9-8bf4e4a04362" />
+<img width="1895" height="885" alt="image" src="https://github.com/user-attachments/assets/87af2362-0900-4563-ab3d-1c13e1e0517d" />
+
 
 
 #### 2. **智能 JSON 处理引擎**
@@ -48,7 +49,7 @@
 - 📊 **错误模式识别**：内置 70+ 种 SQL 错误模式正则表达式
 - 📊 **结果显示顺序**：✔ 长度差值 Err Time > 3s
   - 有长度变化时：优先在结果中注入 ✔，表示响应变化异常，而后显示具体差值，如果变化超出 6666 则显示为 ✔ ==> ?
-  - 检测页面报错：内置大量报错匹配正则表达式，精准匹配页面报错信息，检测到时再结果中注入提示词：Err
+  - 检测页面报错：内置大量报错匹配正则表达式，精准匹配页面报错信息，检测到时在结果中注入提示词：Err
   - 检测响应时长：当响应时间超过3秒时，在结果中注入提示词：Time > 3s
 <img width="1865" height="880" alt="image" src="https://github.com/user-attachments/assets/baa33740-881b-4f4b-87e8-698edb37c921" />
 
@@ -70,7 +71,7 @@
 - 📂 **内置默认 payload**：8 条基础 SQL 测试 payload
 - 📂 **实时编辑**：插件界面直接编辑 payload 列表
 - 📂 **保存/重载**：支持保存到文件并实时重载
-- <img width="1864" height="885" alt="image" src="https://github.com/user-attachments/assets/133d9a9c-ea41-4263-9181-8d7ddb9ce78f" />
+<img width="1864" height="885" alt="image" src="https://github.com/user-attachments/assets/133d9a9c-ea41-4263-9181-8d7ddb9ce78f" />
 
 ## 最新版本
  当前最新版本为 V1.6.5.2，有兴趣的师傅可以联系：XiLZ-B
