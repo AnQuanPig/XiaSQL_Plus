@@ -78,7 +78,7 @@
 
 ## 最新版本
  当前最新版本为 V1.7.3，有兴趣的师傅可以联系：XiLZ-B
-<img width="1210" height="631" alt="image" src="https://github.com/user-attachments/assets/e149eeb3-9705-416a-9c70-352cfb282a03" />
+<img width="1144" height="645" alt="image" src="https://github.com/user-attachments/assets/3feec113-a94c-4727-a733-b0bdfd60676a" />
 <img width="1400" height="750" alt="image" src="https://github.com/user-attachments/assets/8ae448a3-010e-404e-a64b-1e51a3acf959" />
 <img width="1414" height="414" alt="image" src="https://github.com/user-attachments/assets/45baba3e-4d01-45d7-b397-05c5c9629edb" />
 <img width="1170" height="305" alt="image" src="https://github.com/user-attachments/assets/e924cd7e-eaca-4306-9f4b-b89122019478" />
