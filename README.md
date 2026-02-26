@@ -3,6 +3,11 @@
 <img width="315" height="289" alt="image" src="https://github.com/user-attachments/assets/1977ad0c-d5cd-45d4-9d5b-acf030a0f261" /> <img width="280" height="250" alt="image" src="https://github.com/user-attachments/assets/c6c6b351-da0c-4b76-895b-b3815a753a9c" />
 
 
+## 最新版本
+ 当前最新版本为 V1.7.9.2，有兴趣的师傅可以联系：XiLZ-B
+<img width="1870" height="953" alt="image" src="https://github.com/user-attachments/assets/4c8218b9-4899-4884-ad5a-86ffdee28ef9" />
+<img width="1865" height="946" alt="image" src="https://github.com/user-attachments/assets/04b40368-7880-405a-aa7e-7175926af862" />
+
 
 
 ### 插件介绍
@@ -75,13 +80,6 @@
 - 📂 **保存/重载**：支持保存到文件并实时重载
 <img width="1864" height="885" alt="image" src="https://github.com/user-attachments/assets/133d9a9c-ea41-4263-9181-8d7ddb9ce78f" />
 
-
-## 最新版本
- 当前最新版本为 V1.7.3，有兴趣的师傅可以联系：XiLZ-B
-<img width="1144" height="645" alt="image" src="https://github.com/user-attachments/assets/3feec113-a94c-4727-a733-b0bdfd60676a" />
-<img width="1400" height="750" alt="image" src="https://github.com/user-attachments/assets/8ae448a3-010e-404e-a64b-1e51a3acf959" />
-<img width="1414" height="414" alt="image" src="https://github.com/user-attachments/assets/45baba3e-4d01-45d7-b397-05c5c9629edb" />
-<img width="1170" height="305" alt="image" src="https://github.com/user-attachments/assets/e924cd7e-eaca-4306-9f4b-b89122019478" />
 
 
 
